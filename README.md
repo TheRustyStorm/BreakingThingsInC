@@ -18,6 +18,6 @@ int main(void){
 ```
 
 ```
-gcc hello.c
-./a.out
+gcc hello.c -o hello
+./hello
 ```
