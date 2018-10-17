@@ -1,4 +1,4 @@
-# BreakingThingsInC
+# Breaking Things In C
 The official Repo with course material and more for the Course
 
 ## Installation
