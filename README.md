@@ -1,4 +1,4 @@
-# BreakingThingsInC
+# Breaking Things In C
 The official Repo with course material and more for the Course
 
 ## Installation
@@ -6,7 +6,7 @@ Follow the instructions from this [Repo](http://bitbucket.es.uni-due.de:7990/pro
 
 Install [Visual Studio Code](https://code.visualstudio.com)
 
-Try to execute the following code
+Create a file called hello.c
 
 ```c
 #include <stdio.h>
@@ -15,4 +15,9 @@ int main(){
   printf("Hello World\n");
   return 0;
 }
+```
+
+```
+gcc hello.c
+./a.out
 ```
