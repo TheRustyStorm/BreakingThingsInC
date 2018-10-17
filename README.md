@@ -6,7 +6,7 @@ Follow the instructions from this [Repo](http://bitbucket.es.uni-due.de:7990/pro
 
 Install [Visual Studio Code](https://code.visualstudio.com)
 
-Try to execute the following code
+Try to compile and execute the following code
 
 ```c
 #include <stdio.h>
