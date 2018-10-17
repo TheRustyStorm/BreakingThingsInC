@@ -1,0 +1,18 @@
+# BreakingThingsInC
+The official Repo with course material and more for the Course
+
+## Installation
+Follow the instructions from this [Repo](http://bitbucket.es.uni-due.de:7990/projects/TEM/repos/embedded-systems-exercise/browse)
+
+Install [Visual Studio Code](https://code.visualstudio.com)
+
+Try to execute the following code
+
+```c
+#include <stdio.h>
+
+int main(){
+  printf("Hello World\n");
+  return 0;
+}
+```
