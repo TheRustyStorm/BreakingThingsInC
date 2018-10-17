@@ -11,7 +11,7 @@ Create a file called hello.c
 ```c
 #include <stdio.h>
 
-int main(){
+int main(void){
   printf("Hello World\n");
   return 0;
 }
