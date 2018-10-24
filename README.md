@@ -11,13 +11,13 @@ Create a file called hello.c
 ```c
 #include <stdio.h>
 
-int main(){
+int main(void){
   printf("Hello World\n");
   return 0;
 }
 ```
 
 ```
-gcc hello.c
-./a.out
+gcc hello.c -o hello
+./hello
 ```
