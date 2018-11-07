@@ -21,6 +21,3 @@ int main(void){
 gcc hello.c -o hello
 ./hello
 ```
-
-## Important regarding 31.10.18
-On 31.10.18 no C course will happen, as i am not here. Have a nice week <3
