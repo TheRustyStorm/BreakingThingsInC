@@ -23,5 +23,5 @@ gcc hello.c -o hello
 ```
 
 ## About
-This course is not affiliated with any teaching chair, it is a voluntary and unpaid student course, which everyone who is interested is free to attend.
+This course is not affiliated with any university or research group, it is a voluntary and unpaid student course, which everyone who is interested is free to attend.
 There are no grades and no credits and it is no replacement for the official C lecture
