@@ -22,5 +22,6 @@ gcc hello.c -o hello
 ./hello
 ```
 
-## Important regarding 31.10.18
-On 31.10.18 no C course will happen, as i am not here. Have a nice week <3
+## About
+This course is not affiliated with any university or research group, it is a voluntary and unpaid student course, which everyone who is interested is free to attend.
+There are no grades and no credits and it is no replacement for the official C lecture
