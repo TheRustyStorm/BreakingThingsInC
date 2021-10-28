@@ -1,20 +1,21 @@
 #include <stdio.h>
+#include <stdbool.h>
 
-// + add
-// - subtract
-// * multiply
-// / divide
-// % modulo (23 % 4 == 3, 16 % 5 == 1, 10 % 4 == 2)
-// == (two '=' check if something is equal)
-int sum_of_numbers(int x) {
-    int sum = 0;
-    for(int i = 0; i < x; i++){
-        sum = sum + i;
+int isPrime(int zahl){
+    for(int i = 2; i < zahl - 1; i = i+1){
+        if (zahl % i == 0){
+            return false;
+        }
     }
-    return sum;
+    return true;
 }
 
 int main(){
-    int result = sum_of_numbers(23);
-    printf("%i\n",result);
+    int zahl = 13;
+    if(isPrime(zahl)){
+        printf("Is Prime\n");
+    }else{
+        printf("Is not\n");
+    }
+    return 0;
 }
